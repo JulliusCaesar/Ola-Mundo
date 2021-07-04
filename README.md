@@ -4,3 +4,5 @@
 Repositório criado durante o curso em video
 
 Essa linha eu alterei diretamente no site  do GitHub!!
+
+Brincando com **MarkDown**, fazendo um *ITALICO*
